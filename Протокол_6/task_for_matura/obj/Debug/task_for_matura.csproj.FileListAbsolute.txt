@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Протокол_6\task_for_matura\bin\Debug\task_for_matura.exe.config
+C:\Users\Admin\source\repos\Протокол_6\task_for_matura\bin\Debug\task_for_matura.exe
+C:\Users\Admin\source\repos\Протокол_6\task_for_matura\bin\Debug\task_for_matura.pdb
+C:\Users\Admin\source\repos\Протокол_6\task_for_matura\obj\Debug\task_for_matura.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Протокол_6\task_for_matura\obj\Debug\task_for_matura.FormPointAndRectangle.resources
+C:\Users\Admin\source\repos\Протокол_6\task_for_matura\obj\Debug\task_for_matura.Properties.Resources.resources
+C:\Users\Admin\source\repos\Протокол_6\task_for_matura\obj\Debug\task_for_matura.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Протокол_6\task_for_matura\obj\Debug\task_for_matura.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Протокол_6\task_for_matura\obj\Debug\task_for_matura.exe
+C:\Users\Admin\source\repos\Протокол_6\task_for_matura\obj\Debug\task_for_matura.pdb
