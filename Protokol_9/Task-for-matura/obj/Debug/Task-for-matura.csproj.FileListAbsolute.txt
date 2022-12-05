@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Protokol_9\Task-for-matura\bin\Debug\Task-for-matura.exe.config
+C:\Users\Admin\source\repos\Protokol_9\Task-for-matura\bin\Debug\Task-for-matura.exe
+C:\Users\Admin\source\repos\Protokol_9\Task-for-matura\bin\Debug\Task-for-matura.pdb
+C:\Users\Admin\source\repos\Protokol_9\Task-for-matura\obj\Debug\Task-for-matura.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Protokol_9\Task-for-matura\obj\Debug\Task_for_matura.Form1.resources
+C:\Users\Admin\source\repos\Protokol_9\Task-for-matura\obj\Debug\Task_for_matura.Properties.Resources.resources
+C:\Users\Admin\source\repos\Protokol_9\Task-for-matura\obj\Debug\Task-for-matura.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Protokol_9\Task-for-matura\obj\Debug\Task-for-matura.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Protokol_9\Task-for-matura\obj\Debug\Task-for-matura.exe
+C:\Users\Admin\source\repos\Protokol_9\Task-for-matura\obj\Debug\Task-for-matura.pdb
